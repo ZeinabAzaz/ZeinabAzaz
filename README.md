@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-  Hi, My name is Zaynab Mohamed
+  Hi, My name is Zeinab Azaz
 </h1>
 
 ### 👩‍💻 DevOps Engineer:
