@@ -47,9 +47,9 @@
 ### 📊 Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZaynabMohammed&show_icons=true&theme=dark" alt="Zaynab's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeinabAzaz&show_icons=true&theme=dark" alt="Zeinab's GitHub stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaynabMohammed&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeinabAzaz&layout=compact&theme=dark"/>
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ZaynabMohammed&theme=dark" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ZeinabAzaz&theme=dark" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -67,7 +67,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeinab-azaz/)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ZaynabMohammed/ZaynabMohammed/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake dark animation"/>
+  <img src="https://raw.githubusercontent.com/ZeinabAzaz/ZeinabAzaz/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake dark animation"/>
 </div>
 
 ---
